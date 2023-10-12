@@ -7,6 +7,12 @@ import project from "../assets/projects/project.jpeg";
 import lift from "../assets/projects/lift.png";
 import krypto from "../assets/projects/krypto.png";
 import kickstart from "../assets/projects/kickstart.png";
+import mini_rc_buggy from "../assets/projects/mini-rc-buggy_1.png";
+import led_wall from "../assets/projects/led_wall_1.png";
+import cnc_pen_plotter from "../assets/projects/cnc_pen_plotter.png";
+import laser_tag from "../assets/projects/laser_tag.jfif";
+import ddr from "../assets/projects/ddr.jfif";
+import robotic_arm from "../assets/projects/robotic_arm.jfif";
 
 const Projects = () => {
   return (
@@ -14,69 +20,69 @@ const Projects = () => {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          Recent Top <strong className="yellow">Works </strong>
+          Our <strong className="yellow">Projects </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here are a few projects We've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={lift}
+              imgPath={mini_rc_buggy}
               isBlog={false}
-              title="Lift-Buddy"
-              description="This online ride-sharing platform boasts a responsive front-end design, complete with an admin panel built using React and Material-UI. With the integration of Google Maps API, users can easily access directions on the map. The platform allows for full CURD functionality on profiles and posts, and users can confirm or cancel a ride from a post and message each other after confirmation. Additionally, users can easily reset their password. The back-end is powered by a Node Express server and utilizes MongoDB for the database management."
+              title="Mini RC Buggy"
+              description="The Wi-Fi Controlled RC Car project aims to convert a traditional RC car into a Wi-Fi-controlled vehicle. By integrating Wi-Fi capabilities, the user can control the car remotely from a smartphone or computer, allowing for greater range and versatility in maneuvering the vehicle. This project combines hardware modifications, software development, and networking to achieve the desired functionality."
               ghLink="https://github.com/19sajib/lift-buddy"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={project}
+              imgPath={led_wall}
               isBlog={false}
-              title="Social Media"
-              description="This platform features a responsive interface built with Reactjs and CSS, allowing users to easily manage their profiles and posts through CRUD activities. The option to follow other users and interact with their posts (like or dislike) is also available, with suggestions for new users to follow. Users can only view posts from their followed users and can only engage in chat with those they follow. The backend is powered by Nodejs and Expressjs server, while MongoDB is utilized as the database."
+              title="LED Wall"
+              description="A sound visualizer LED wall is a dynamic and immersive display that responds to audio input by generating visual effects or patterns of light in sync with the music or sound being played. These LED walls combine LED technology with audio processing to create stunning visual experiences that are often used in entertainment, concerts, events, and artistic installations."
               ghLink="https://github.com/19sajib/social-media"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={kickstart}
+              imgPath={cnc_pen_plotter}
               isBlog={false}
-              title="E‑Commerce Website"
-              description="This ecommerce website utilizes a REST API built with Nodejs and Expressjs, allowing for easy CRUD operations on user profiles, products and admin panel. The user interface is designed for efficient product management and includes a complete purchase process. The admin panel, accessible for CRUD on users and products, includes a chart for statistics display. Stripe API is integrated to handle customer payments. The website uses MongoDB and Firebase as the database."
+              title="CNC Pen Plotter"
+              description="CNC (Computer Numerical Control) refers to a computer-controlled system used for the precise and automated control of machinery, such as mills, lathes, routers, and 3D printers. In the context of a 'CNC Plotter' it typically refers to a specific type of CNC machine designed for drawing or plotting on a two-dimensional surface, often paper or other flat materials."
               ghLink="https://github.com/19sajib/mern-stack-ecommerce"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={pg}
+              imgPath={laser_tag}
               isBlog={false}
-              title="Blog Website"
-              description="This blogging application features a RESTful API server built with Nodejs and Expressjs. The data is retrieved from the API server and displayed on a user-friendly interface designed using React, Redux, and styled-components for a seamless experience."
+              title="Laser Tag"
+              description="Laser tag is an interactive, team-based or individual recreational shooting game where players use infrared-emitting light guns or devices to tag or 'shoot' opponents. The game typically takes place in a specially designed arena with various obstacles and hiding spots."
               ghLink="https://github.com/19sajib/mern-blog-app"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={krypto}
+              imgPath={ddr}
               isBlog={false}
-              title="Project Krypto"
-              description="Project Krypto is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It allows users to interact with their Metamask wallet and send Ethereum."
+              title="Dance Dance Revolution"
+              description="Dance Dance Revolution (DDR) is a rhythm and dance video game that challenges players to match dance steps to the beat of various songs. It is not only a fun and entertaining game but also a platform for exercise and competitive play. DDR has become a cultural phenomenon and remains a popular choice for gamers and those looking to combine entertainment with physical activity."
               ghLink="https://github.com/19sajib/Project-Krypto-Web-3.0"
-              demoLink="https://project-krypto.netlify.app/"
+              // demoLink="https://project-krypto.netlify.app/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={kickstart}
+              imgPath={robotic_arm}
               isBlog={false}
-              title="Solidity Kickstart"
-              description="Solidity Kickstart is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It includes all the functionality of a kickstart platform, enabling users to interact with their Metamask wallet, transfer Ethereum and participate in kickstart campaigns."
+              title="Robotic Arm"
+              description="A robotic arm designed to pick up chess pieces, often referred to as 'chess coins' is a specific application of robotic technology. This robotic arm is intended to autonomously or remotely move chess pieces on a chessboard. "
               ghLink="https://github.com/19sajib/Solidity-Kickstart"
             />
           </Col>

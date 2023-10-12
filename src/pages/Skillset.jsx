@@ -13,18 +13,16 @@ const Skillset = () => {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          Professional <strong className="yellow">Skillset </strong>
+          Our<strong className="yellow"> Team </strong>
         </h1>
 
-        <Techstack />
+        {/* <Techstack /> */}
 
-        <h1 className="project-heading">
-          <strong className="yellow">Tools</strong> I use
-        </h1>
+
         <Toolstack />
 
-        <Leetcode />
-        <Github />
+        {/* <Leetcode /> */}
+        {/* <Github /> */}
       </Container>
     </Container>
   )
