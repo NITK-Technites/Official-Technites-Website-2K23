@@ -13,6 +13,7 @@ import cnc_pen_plotter from "../assets/projects/cnc_pen_plotter.png";
 import laser_tag from "../assets/projects/laser_tag.jfif";
 import ddr from "../assets/projects/ddr.jfif";
 import robotic_arm from "../assets/projects/robotic_arm.jfif";
+import farc from "../assets/projects/farc.jfif";
 
 const Projects = () => {
   return (
@@ -32,7 +33,7 @@ const Projects = () => {
               isBlog={false}
               title="Mini RC Buggy"
               description="The Wi-Fi Controlled RC Car project aims to convert a traditional RC car into a Wi-Fi-controlled vehicle. By integrating Wi-Fi capabilities, the user can control the car remotely from a smartphone or computer, allowing for greater range and versatility in maneuvering the vehicle. This project combines hardware modifications, software development, and networking to achieve the desired functionality."
-              ghLink="https://github.com/19sajib/lift-buddy"
+              ghLink="https://github.com/NITK-Technites/MiniVehicle"
             />
           </Col>
 
@@ -42,7 +43,7 @@ const Projects = () => {
               isBlog={false}
               title="LED Wall"
               description="A sound visualizer LED wall is a dynamic and immersive display that responds to audio input by generating visual effects or patterns of light in sync with the music or sound being played. These LED walls combine LED technology with audio processing to create stunning visual experiences that are often used in entertainment, concerts, events, and artistic installations."
-              ghLink="https://github.com/19sajib/social-media"
+              ghLink="https://github.com/NITK-Technites/LED_Wall"
             />
           </Col>
 
@@ -52,7 +53,7 @@ const Projects = () => {
               isBlog={false}
               title="CNC Pen Plotter"
               description="CNC (Computer Numerical Control) refers to a computer-controlled system used for the precise and automated control of machinery, such as mills, lathes, routers, and 3D printers. In the context of a 'CNC Plotter' it typically refers to a specific type of CNC machine designed for drawing or plotting on a two-dimensional surface, often paper or other flat materials."
-              ghLink="https://github.com/19sajib/mern-stack-ecommerce"
+              ghLink="https://github.com/NITK-Technites/CNC-Pen-Plotter"
             />
           </Col>
 
@@ -62,7 +63,7 @@ const Projects = () => {
               isBlog={false}
               title="Laser Tag"
               description="Laser tag is an interactive, team-based or individual recreational shooting game where players use infrared-emitting light guns or devices to tag or 'shoot' opponents. The game typically takes place in a specially designed arena with various obstacles and hiding spots."
-              ghLink="https://github.com/19sajib/mern-blog-app"
+              ghLink="https://github.com/NITK-Technites/Blitzkreig"
             />
           </Col>
 
@@ -72,7 +73,7 @@ const Projects = () => {
               isBlog={false}
               title="Dance Dance Revolution"
               description="Dance Dance Revolution (DDR) is a rhythm and dance video game that challenges players to match dance steps to the beat of various songs. It is not only a fun and entertaining game but also a platform for exercise and competitive play. DDR has become a cultural phenomenon and remains a popular choice for gamers and those looking to combine entertainment with physical activity."
-              ghLink="https://github.com/19sajib/Project-Krypto-Web-3.0"
+              ghLink="https://github.com/NITK-Technites/DDR"
               // demoLink="https://project-krypto.netlify.app/"
             />
           </Col>
@@ -83,7 +84,15 @@ const Projects = () => {
               isBlog={false}
               title="Robotic Arm"
               description="A robotic arm designed to pick up chess pieces, often referred to as 'chess coins' is a specific application of robotic technology. This robotic arm is intended to autonomously or remotely move chess pieces on a chessboard. "
-              ghLink="https://github.com/19sajib/Solidity-Kickstart"
+              ghLink="https://github.com/NITK-Technites/Robotic-Arm"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={farc}
+              isBlog={false}
+              title="Planes and Drones"
+              description="The construction of drones may vary significantly from traditional airplanes due to their smaller size, different missions, and often the use of remote control or autonomous technology. Additionally, modern aircraft development may also involve 3D printing and advanced materials to improve performance and reduce weight."
             />
           </Col>
         </Row>
