@@ -10,7 +10,9 @@ import bharath from "../../assets/team/bharath.png";
 import gagana from "../../assets/team/gagana.png";
 import prem from "../../assets/team/prem.jfif";
 import kaustubh from "../../assets/team/kaustubh.jfif";
+import jagdeesh from "../../assets/team/jagdeesh.png";
 import aryan from "../../assets/team/aryan.png";
+import mbsa from "../../assets/team/mbsa.png";
 import {
   SiVisualstudiocode,
   SiPostman,
@@ -329,6 +331,62 @@ const Toolstack = () => {
               <li className="social-icons">
                 <a
                   href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  style={{ color: "pink" }}
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  aria-label="instagram"
+                >
+                  <AiFillInstagram />
+                </a>
+              </li>
+            </ul>
+      </Col>
+      <Col xs={12} md={2} className="tech-icons">
+      <img src={mbsa}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <p style={{ fontSize: '20px'}}>MBSA</p>
+      <ul className="footer-icons" style={{ fontSize: '25px'}}>
+              <li className="social-icons">
+                <a
+                  href="https://www.linkedin.com/in/mbsaiaditya/"
+                  style={{ color: "blue" }}
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  aria-label="linkedin"
+                >
+                  <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.instagram.com/mbsaiaditya"
+                  style={{ color: "pink" }}
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  aria-label="instagram"
+                >
+                  <AiFillInstagram />
+                </a>
+              </li>
+            </ul>
+      </Col>
+      <Col xs={12} md={2} className="tech-icons">
+      <img src={jagdeesh}  width="150" height="150" style={{ borderRadius: '50%'}} />
+      <p style={{ fontSize: '20px'}}>Jagdeesh</p>
+      <ul className="footer-icons" style={{ fontSize: '25px'}}>
+              <li className="social-icons">
+                <a
+                  href="https://www.linkedin.com/in/mbsaiaditya/"
+                  style={{ color: "blue" }}
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  aria-label="linkedin"
+                >
+                  <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.instagram.com/mbsaiaditya"
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
