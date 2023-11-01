@@ -151,7 +151,7 @@ const Toolstack = () => {
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/company/technites-nitk/"
+                  href="https://www.linkedin.com/in/anirudh-singh-solanki-69bb191bb/"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -162,7 +162,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  href="https://www.instagram.com/__anirudh___singh?igshid=MzRlODBiNWFlZA%3D%3D"
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -179,7 +179,7 @@ const Toolstack = () => {
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/company/technites-nitk/"
+                  href="https://www.linkedin.com/in/adithyanv/"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -263,7 +263,7 @@ const Toolstack = () => {
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/company/technites-nitk/"
+                  href="https://www.linkedin.com/in/prem-kumar-middinti-374537288/"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -274,7 +274,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  href="https://instagram.com/prem_kumar14322?igshid=OGQ5ZDc2ODk2ZA=="
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -291,7 +291,7 @@ const Toolstack = () => {
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/company/technites-nitk/"
+                  href="https://www.linkedin.com/in/khedkar-kaustubh/"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -375,7 +375,7 @@ const Toolstack = () => {
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/mbsaiaditya/"
+                  href="https://www.linkedin.com/in/jagadeesh-kumar-67b547247"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -386,7 +386,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/mbsaiaditya"
+                  href="https://instagram.com/reddipallijagadeeshkumar?igshid=OGQ5ZDc2ODk2ZA=="
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
