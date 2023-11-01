@@ -91,11 +91,11 @@ const Toolstack = () => {
       </Col>
       <Col xs={12} md={2} className="tech-icons">
       <img src={apoorva}  width="150" height="150" style={{ borderRadius: '50%'}} />
-      <p style={{ fontSize: '20px'}}>Apporva</p>
+      <p style={{ fontSize: '20px'}}>Apurva</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/company/technites-nitk/"
+                  href="https://www.linkedin.com/in/apurva-srinivasa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -106,7 +106,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  href="https://www.instagram.com/apurva_srinivasa/"
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -119,11 +119,11 @@ const Toolstack = () => {
       </Col>
       <Col xs={12} md={2} className="tech-icons">
       <img src={hrishikesh}  width="150" height="150" style={{ borderRadius: '50%'}} />
-      <p style={{ fontSize: '20px'}}>Hrishikesh Kulkarni</p>
+      <p style={{ fontSize: '20px'}}>Hrishikesh</p>
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/company/technites-nitk/"
+                  href="https://www.linkedin.com/in/hrishi-9b098b217/"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -134,7 +134,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  href="https://www.instagram.com/hrishi_coolkarni/"
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -190,7 +190,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  href="https://www.instagram.com/adii.x_/"
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -207,7 +207,7 @@ const Toolstack = () => {
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/company/technites-nitk/"
+                  href="https://www.linkedin.com/in/mudavath-bharath-2b7121227/"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -218,7 +218,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  href="https://instagram.com/bharath_mudavath10?igshid=YTQwZjQ0NmI0OA=="
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -235,7 +235,7 @@ const Toolstack = () => {
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/company/technites-nitk/"
+                  href="https://www.linkedin.com/in/k-a-gaganashree-2a7bb21ba/"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -246,7 +246,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  href="https://www.instagram.com/gagana_513/"
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -302,7 +302,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  href="https://instagram.com/kaustubh.k_?igshid=YTQwZjQ0NmI0OA=="
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -319,7 +319,7 @@ const Toolstack = () => {
       <ul className="footer-icons" style={{ fontSize: '25px'}}>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/company/technites-nitk/"
+                  href="https://www.linkedin.com/in/aryan-agrawal-5428901bb/"
                   style={{ color: "blue" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -330,7 +330,7 @@ const Toolstack = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://instagram.com/technitesnitk?igshid=xfia546mg3v6"
+                  href="https://instagram.com/_aaryanag?igshid=YTQwZjQ0NmI0OA=="
                   style={{ color: "pink" }}
                   target="_blank" 
                   rel="noopener noreferrer"
