@@ -7,6 +7,7 @@ import led_wall from "../assets/projects/led_wall_1.png";
 import cnc_pen_plotter from "../assets/projects/pen_plotter.jfif";
 import laser_tag from "../assets/projects/laser_tag.jfif";
 import ddr from "../assets/projects/ddr.jfif";
+import laser_turret from "../assets/projects/laser_turret.png";
 import robotic_arm from "../assets/projects/robotic_arm.jfif";
 import farc from "../assets/projects/farc.jfif";
 
@@ -69,6 +70,16 @@ const Projects = () => {
               title="Dance Dance Revolution"
               description="Dance Dance Revolution (DDR) is a rhythm and dance video game that challenges players to match dance steps to the beat of various songs. It is not only a fun and entertaining game but also a platform for exercise and competitive play. DDR has become a cultural phenomenon and remains a popular choice for gamers and those looking to combine entertainment with physical activity."
               ghLink="https://github.com/NITK-Technites/DDR"
+              // demoLink="https://project-krypto.netlify.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={laser_turret}
+              isBlog={false}
+              title="Laser Turret"
+              description="A flash detector using Arduino utilizes light-sensitive components like phototransistors or LDRs to detect sudden light intensity changes, such as camera flashes. It connects to an Arduino, which analyzes sensor output to recognize flash events exceeding a set threshold. This system is valuable for synchronized photography, security systems, or event monitoring requiring flash detection."
+              ghLink="https://github.com/NITK-Technites/Laser-Turret"
               // demoLink="https://project-krypto.netlify.app/"
             />
           </Col>
